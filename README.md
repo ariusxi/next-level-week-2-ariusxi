@@ -1,2 +1,2 @@
-# next-level-week-2-ariusxi
+# Next Level Week
 Next Level Week - Omnistack
